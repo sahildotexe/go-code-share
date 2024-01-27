@@ -2,6 +2,12 @@
 
 GoShare is a command-line tool written in Golang that allows users to easily share file content with others using a temporary URL.
 
+
+
+https://github.com/sahildotexe/go-code-share/assets/71642465/98b885cf-e907-4aac-a4ae-59928b14768a
+
+
+
 ## Usage
 
 To share a file, use the following command:
