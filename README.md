@@ -39,7 +39,9 @@ Replace `<file_path>` with the path to the file you want to share.
    ```
 
 4. Move the executable to a directory in your system's PATH:
-
+   
+   For MacOs/ Linux :
+   
    ```bash
    sudo mv goshare /usr/local/bin/
    ```
@@ -47,7 +49,7 @@ Replace `<file_path>` with the path to the file you want to share.
 ## Example
 
 ```bash
-goshare /path/to/example.txt
+goshare /folder/file.go
 ```
 
 The tool will generate an NGROK URL that others can use to access the shared file.
