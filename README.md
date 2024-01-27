@@ -4,7 +4,10 @@ GoShare is a command-line tool written in Golang that allows users to easily sha
 
 
 
-https://github.com/sahildotexe/go-code-share/assets/71642465/98b885cf-e907-4aac-a4ae-59928b14768a
+
+
+
+https://github.com/sahildotexe/go-code-share/assets/71642465/6775e38f-590d-4806-be12-c12a26edbcb2
 
 
 
