@@ -1,0 +1,171 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories
+vendor/
+Godeps/
+
+# The checkpass executable
+checkpass
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.lib
+
+# Folders
+_test/
+
+# Go specific
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.6
+*.8
+*.so
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Build directory
+/build/
+
+# Endorsements (Windows)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code directories
+.vscode/
+
+# IntelliJ directories
+.idea/
+
+# Sublime Text directories
+.sublime-text/
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains IDE
+.idea/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Compiled Object files, Static and Dynamic libs (Windows)
+*.pdb
+*.dll
+*.exe
+*.1
+*.exe~*
+
+# Go executables
+*.exe
+
+# Compiled Object files, Static and Dynamic libs (Windows)
+*.obj
+
+# Compiled Source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Generated files
+*.test
+*.prof
+
+# Grails
+/target/
+
+# Gradle
+.gradle/
+/build/
+
+# Kotlin
+bin/
+build/
+.gradle/
+
+# C++ compiled output
+*.out
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
